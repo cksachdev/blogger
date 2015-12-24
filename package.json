@@ -1,0 +1,24 @@
+{
+  "name": "blogspot",
+  "version": "0.1.0",
+  "description": "Blogger theme template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cksachdev/blogspot.git"
+  },
+  "keywords": [
+    "blogger",
+    "blog",
+    "blogspot"
+  ],
+  "author": "Chetan Sachdev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cksachdev/blogspot/issues"
+  },
+  "homepage": "https://github.com/cksachdev/blogspot#readme"
+}
